@@ -1,3 +1,7 @@
+# Responsáveis:
+ - Natan Gabriel Wildner da Silva
+ - Ariel Lorenz
+
 ## Recomendações  
 
 ### Fonte Utilizada  
