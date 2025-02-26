@@ -1,6 +1,6 @@
 # Responsáveis:
+ - Ariel lorenz
  - Natan Gabriel Wildner da Silva
- - Ariel Lorenz
 
 ## Recomendações  
 
